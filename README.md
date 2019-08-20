@@ -1,2 +1,2 @@
 Teste.
-![./janna.png](Janna)
+![](/janna.png)
